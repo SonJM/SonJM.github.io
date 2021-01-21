@@ -22,8 +22,31 @@ tags: [TIL, 2021년 1월]
   .ext파일에 대해 구글링해본 결과 리눅스에서 사용 하는 파일 확장자라는 것을 알게되었다,,
 단순 마크다운 기본설명서를 새로 구글링해서 포스팅해놓았다 내일부터는 이런 칙칙한 디자인보다 
 마크다운의 여러 문법들을 사용해가며 이쁘장하게 포스팅해봐야겠다,,!!
+  
+  
+  
+  
+  
+## TIL  
 
+### Kotlin 언어공부  
+<img src="{{ site.baseurl }}/images/../../../images/2021-01-18.png" width="250" height="350">
+1. 오리엔테이션
+   + kotlin 강의 진행에 있어서 필요한 정보들을 알려주는 시간이였다.
+2. 1단원 : 코틀린의 기본을 익혀요!
+   + 수업은 zulu에서 jdk 8버전을 다운받아서 진행하고 있고 intellij 개발 툴을 사용하여 수업이 진행된다.
 
+``` java
+// Decompile된 소스
+public final class HelloKotlinKt {
+   public static final void main() {
+      String var0 = "Hello Kotlin!";
+      System.out.println(var0);
+   }
 
-### TIL
-
+   // $FF: synthetic method
+   public static void main(String[] var0) {
+      main();
+   }
+}
+```
