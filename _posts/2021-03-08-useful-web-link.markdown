@@ -22,6 +22,7 @@ tags: [coding, link]
 + [React 입문](https://simplereact.gitbook.io/simplereact/ "https://simplereact.gitbook.io/simplereact/")
 + [Android 오픈소스](https://coding-factory.tistory.com/209 "https://coding-factory.tistory.com/209")
 + [Google제공 Android 오픈소스](https://source.android.com/ "https://source.android.com/")
++ [Django 공부 사이트](https://blog.naver.com/dnjswns2280/221847257650 "https://blog.naver.com/dnjswns2280/221847257650")
 
 ### 인강 사이트
 ---
