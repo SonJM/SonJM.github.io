@@ -9,7 +9,7 @@ tags: [jekyll, markdown]
 `ref` [TheoryDB 블로그](https://theorydb.github.io "https://theorydb.github.io")
 
 ## 개요
-> 지금 당장 필요한 `마크다운(Markdown)` 문법부터 단계적으로 배워봅시다.  
+> 지금 당장 필요한 `마크다운(Markdown)` 문법부터 단계적으로 배워봅시다. 
   
 - 목차
 	- [Markdown이란?](#markdown이란) 

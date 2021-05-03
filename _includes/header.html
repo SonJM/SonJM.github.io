@@ -45,6 +45,17 @@
               </li>
               {% endif %}
 
+              {% if site.author.notion_username %}
+              <!-- Notion -->
+              <li class="navigation__item">
+                <a href="https://www.notion.so/b8f0fc6dbb52458c99d766e3f75d39a3"
+                  title="@{{ site.author.notion_username }} on Notion" target="_blank">
+                  <i class="icon icon-social-delicious"></i>
+                  <span class="label">Notion</span>
+                </a>
+              </li>
+              {% endif %}
+
               {% if site.author.facebook_username %}
               <!-- Facebook -->
               <li class="navigation__item">
